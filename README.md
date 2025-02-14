@@ -1,4 +1,4 @@
-```markdown
+
 # GoRestAPI
 
 GoRestAPI is a high-performance Go framework for building REST APIs. It provides a clean and intuitive structure with features like routing, middleware support, and data validation. Perfect for production-ready applications, from simple data services to complex microservice architectures.
@@ -63,4 +63,3 @@ GoRestAPI/
 ## 🔗 Repository: [GoRestAPI](https://github.com/petersonchiquetto/GoRestAPI)
 
 Enjoyed it? ⭐ Don’t forget to give the repository a star! 🚀✨
-```
